@@ -11,7 +11,7 @@ Hope you play and enjoy it 😉
 
 ## Screenshots
 
-![App Screenshot]([https://github-production-user-asset-6210df.s3.amazonaws.com/73791490/293424893-fb73368a-52f7-4f8f-83f5-be84c3d070d1.jpg](https://github-production-user-asset-6210df.s3.amazonaws.com/73791490/296859458-edc83b8f-c524-4a3f-896d-34cc8421a2c4.jpg))
+![App Screenshot](https://github-production-user-asset-6210df.s3.amazonaws.com/73791490/296859458-edc83b8f-c524-4a3f-896d-34cc8421a2c4.jpg)
 
 
 ## Online Demo
