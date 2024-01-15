@@ -16,4 +16,4 @@ Hope you play and enjoy it 😉
 
 ## Online Demo
 
-💻 [Game online Demo](https://gtngame.vercel.app//)
+💻 [Capitals Temp online Demo](https://capitalstemp.vercel.app//)
